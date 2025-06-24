@@ -1,1 +1,1 @@
-# template
+sample site template frontend
